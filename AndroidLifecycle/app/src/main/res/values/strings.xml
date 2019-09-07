@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Android Lifecycle</string>
-    <string name="hint_name">Satriya Dipa</string>
+    <string name="hint_name">Masukkan nama anda!</string>
     <string name="submit">Submit</string>
 </resources>
